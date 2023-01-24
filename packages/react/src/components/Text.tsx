@@ -1,5 +1,5 @@
 // import { ComponentProps, ElementType } from 'react'
-// import { fontSizes } from '@ignite-ui/tokens'
+// import { fontSizes } from '@vinicius-ignite-design-system/tokens'
 import { styled } from '../styles'
 import { ComponentProps } from '../types'
 

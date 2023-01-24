@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@vinicius-ignite-design-system/tokens'
 
 export const {
   styled,
