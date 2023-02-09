@@ -1,0 +1,4 @@
+{
+  "extends": "@vinicius-ignite-design-system/ts-config/react.json",
+  "include": ["src"]
+}

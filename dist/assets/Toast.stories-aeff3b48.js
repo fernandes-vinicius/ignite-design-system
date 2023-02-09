@@ -1,0 +1,2 @@
+import{d as t}from"./index-335d81a6.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const i={title:"Overlay/Toast",component:t,args:{open:!0,title:"Olá, eu sou um toast!",description:"Sou utilizado para mostrar mensagens de alerta na tela"},argTypes:{open:{control:{type:"boolean"}}}},n={},p=["Primary"];export{n as Primary,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Toast.stories-aeff3b48.js.map

@@ -1,0 +1,2 @@
+import{A as t}from"./index-335d81a6.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/fernandes-vinicius.png",alt:"Vinícius Fernandes"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},p=["Primary","WithFallback"];export{c as Primary,e as WithFallback,p as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories-452e0d19.js.map
